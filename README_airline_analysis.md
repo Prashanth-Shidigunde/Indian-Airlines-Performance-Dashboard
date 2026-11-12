@@ -8,6 +8,12 @@ This project brings multiple airline performance indicators into a single report
 
 The report is built in **Microsoft Power BI** and uses a 16:9 report canvas (1920 × 1080).
 
+# Indian Airlines Performance Dashboard
+
+## Dashboard Preview
+
+![Airline Analysis Dashboard](airline-dashboard.png)
+
 ## Dashboard Features
 
 ### Key Performance Indicators
