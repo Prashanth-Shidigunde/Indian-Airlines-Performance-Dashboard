@@ -12,7 +12,7 @@ The report is built in **Microsoft Power BI** and uses a 16:9 report canvas (192
 
 ## Dashboard Preview
 
-![Airline Analysis Dashboard](airline-dashboard.png)
+<img src="airline-dashboard.png" alt="Indian Airlines Performance Analysis Dashboard" width="100%">
 
 ## Dashboard Features
 
